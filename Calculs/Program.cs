@@ -29,7 +29,7 @@ namespace Calculs
                 Console.WriteLine("Quitter ........................ 0");
                 Console.Write("Choix :                          ");
                 choix = Console.ReadLine();
-                switch (choix) // traitement des choix
+                switch (choix) // traitement des choix 
                 {
                     case "1":  // choix de l'addition
 
